@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bu4Aso8hhs+BnXwSoG4ZB7Seaxp3MR7PzDEUkYzgp3N5gvJJMzpivn0O8BefRS8T7N4QyicuIqYNk1Y+VOzeuQ==",
+  "success": true,
+  "projectFilePath": "/home/kanishk/Documents/dotnet/Router/Router.csproj",
+  "expectedPackageFiles": [
+    "/home/kanishk/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

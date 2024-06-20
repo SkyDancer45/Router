@@ -1,0 +1,14 @@
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/Router.GeneratedMSBuildEditorConfig.editorconfig
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/Router.AssemblyInfoInputs.cache
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/Router.AssemblyInfo.cs
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/Router.csproj.CoreCompileInputs.cache
+/home/kanishk/Documents/dotnet/Router/bin/Debug/net8.0/Router
+/home/kanishk/Documents/dotnet/Router/bin/Debug/net8.0/Router.deps.json
+/home/kanishk/Documents/dotnet/Router/bin/Debug/net8.0/Router.runtimeconfig.json
+/home/kanishk/Documents/dotnet/Router/bin/Debug/net8.0/Router.dll
+/home/kanishk/Documents/dotnet/Router/bin/Debug/net8.0/Router.pdb
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/Router.dll
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/refint/Router.dll
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/Router.pdb
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/Router.genruntimeconfig.cache
+/home/kanishk/Documents/dotnet/Router/obj/Debug/net8.0/ref/Router.dll
